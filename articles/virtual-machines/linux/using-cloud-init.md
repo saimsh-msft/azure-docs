@@ -98,6 +98,8 @@ For more details of cloud-init logging, refer to the [cloud-init documentation](
 
 ## Next steps
 For cloud-init examples of configuration changes, see the following documents:
+
+added by saim 
  
 - [Add an additional Linux user to a VM](cloudinit-add-user.md)
 - [Run a package manager to update existing packages on first boot](cloudinit-update-vm.md)
